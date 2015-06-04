@@ -24,3 +24,6 @@ A sample webservice project that uses Spray and Akka
 #### Nice to haves:
 * add stats monitoring (maybe kamon)
 * fix up the UI using twirl or angular
+
+### Credits
+Elevation Service example originally from: https://github.com/gagnechris/SprayApiDemo
