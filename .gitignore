@@ -1,0 +1,17 @@
+.classpath
+.project
+.settings
+target
+.DS_Store
+build
+*/bin/*
+bin/
+.idea
+*.iml
+*.orig
+*.class
+branches
+refs
+objects
+.cache
+/bin/
